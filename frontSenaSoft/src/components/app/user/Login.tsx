@@ -45,7 +45,9 @@ const LoginUser: React.FC = () => {
         <br></br>
         <Button variant="outlined" type="submit">
           Ingresar
-        </Button>
+        </Button>{' '}
+        <br />
+        <Link to="/register">Registro</Link>
       </form>
       <div hidden={noAuth}>
         <Alert severity="error" style={{ width: '50%', margin: 'auto' }}>
