@@ -1,5 +1,13 @@
 # SenaSoft2024
 
+Este proyecto fue desarrollado en compañia de [Daniel Henao](https://github.com/VenaoX69) como solución al reto propuesto y patrocinado por IBM dentro de la categoría 'Desarrollo Libre' en el evento anual SENASOFT (Edición Cali, 2024). Nuestro equipo obtuvo el tercer lugar a nivel nacional entre 27 regionales, demostrando la calidad y eficacia de nuestra solución.
+
+El desarrollo de esta aplicación es el resultado de un análisis detallado y la resolución de los problemas planteados en el reto, cuyos detalles pueden consultarse en [https://github.com/VenaoX69](https://github.com/VenaoX69).
+
+**Punto importante:**
+
+Si deseas explorar las funcionalidades administrativas de la aplicación, utiliza el siguiente número de identificación para iniciar sesión como administrador: `9999`. Esta credencial te permitirá acceder a los roles y funciones administrativas descritos en el enlace del reto.
+
 Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el proyecto SenaSoft2024.
 
 ## Estructura del repositorio
