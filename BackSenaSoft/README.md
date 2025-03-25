@@ -12,8 +12,7 @@ Asegúrate de tener instalados los siguientes componentes:
 ### Configuración
 
 1.  **MongoDB:** Asegúrate de que MongoDB esté en ejecución.
-2.  **Variables de entorno:** Verifica que las variables de entorno `JAVA_HOME` estén configuradas correctamente.
-3.  **Base de datos:** Crea una base de datos llamada `SenaSoft` en tu instancia de MongoDB (local o Atlas).
+2.  **Base de datos:** Crea una base de datos llamada `SenaSoft` en tu instancia de MongoDB (local o Atlas).
     
 # Ejecutar BackSenaSoft
 
