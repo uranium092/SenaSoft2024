@@ -17,17 +17,18 @@ Asegúrate de tener instalados los siguientes componentes:
     
 # Ejecutar BackSenaSoft
 
-Sigue estos pasos para ejecutar la aplicación BackSenaSoft:
+Sigue estos pasos para ejecutar BackSenaSoft:
 
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/uranium092/BackSenaSoft
+    git clone https://github.com/uranium092/SenaSoft2024
     ```
 
-2.  **Navegar al directorio del proyecto:**
+2.  **Navegar al directorio del backend:**
 
     ```bash
+    cd SenaSoft2024
     cd BackSenaSoft
     ```
 
@@ -73,3 +74,5 @@ Sigue estos pasos para ejecutar la aplicación BackSenaSoft:
             * ```bash
                 java -jar target/app.jar
                 ```
+## Recomendaciones:
+* Asegurese que la ejecución ocurra en el puerto :8080, de lo contrario, tendrá que cambiar el puerto de comunicación desde el frontend.
