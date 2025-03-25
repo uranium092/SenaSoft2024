@@ -74,13 +74,7 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
 
 ### Backend (BackSenaSoft)
 
-1.  **Navegar al directorio del backend:**
-
-    ```bash
-    cd SenaSoft2024/BackSenaSoft
-    ```
-
-2.  **Ejecutar la aplicación:**
+1.  **Ejecutar la aplicación:**
 
     * **Usando el Wrapper de Maven (mvnw):**
 
@@ -110,19 +104,13 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
 
 ### Frontend (frontSenaSoft)
 
-1.  **Navegar al directorio del frontend:**
-
-    ```bash
-    cd SenaSoft2024/frontSenaSoft
-    ```
-
-2.  **Instalar dependencias:**
+1.  **Instalar dependencias:**
 
     ```bash
     npm install
     ```
 
-3.  **Ejecutar el frontend:**
+2.  **Ejecutar el frontend:**
 
     ```bash
     npm run dev
