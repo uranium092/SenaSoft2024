@@ -27,7 +27,7 @@ Sigue estos pasos para ejecutar frontSenaSoft:
     # .env
     VITE_SERVER_URL=http://localhost:8080
     ```
-    * Tiene la URL del [Backend](https://github.com/uranium092/SenaSoft2024/tree/master/BackSenaSoft); si este no está ejecución en el puerto `:8080`, asegurese de adaptarlo en el `.env` -> `VITE_SERVER_URL=http://localhost:<PORT>`
+    * Este archivo guarda la URL del [Backend](https://github.com/uranium092/SenaSoft2024/tree/master/BackSenaSoft); si este no está ejecución en el puerto `:8080`, asegurese de adaptarlo en el `.env` -> `VITE_SERVER_URL=http://localhost:<PORT>`
 
 4. **Instalar dependencias:**
    * Corra el siguiente comando para instalar las dependencias necesarias:
