@@ -1,0 +1,63 @@
+# Backend (Spring Boot)
+BackSenaSoft/target/
+BackSenaSoft/bin/
+BackSenaSoft/*.class
+BackSenaSoft/*.log
+BackSenaSoft/desktop.ini
+BackSenaSoft/!.mvn/wrapper/maven-wrapper.jar
+BackSenaSoft/!src/main/**/target/
+BackSenaSoft/!src/test/**/target/
+
+### STS ###
+BackSenaSoft/.apt_generated
+BackSenaSoft/.classpath
+BackSenaSoft/.factorypath
+BackSenaSoft/.project
+BackSenaSoft/.settings
+BackSenaSoft/.springBeans
+BackSenaSoft/.sts4-cache
+
+### IntelliJ IDEA ###
+BackSenaSoft/.idea
+BackSenaSoft/*.iws
+BackSenaSoft/*.iml
+BackSenaSoft/*.ipr
+
+### NetBeans ###
+BackSenaSoft/nbproject/private/
+BackSenaSoft/nbbuild/
+BackSenaSoft/dist/
+BackSenaSoft/nbdist/
+BackSenaSoft/.nb-gradle/
+BackSenaSoft/build/
+BackSenaSoft/!src/main/**/build/
+BackSenaSoft/!src/test/**/build/
+
+### VS Code (Backend) ###
+BackSenaSoft/.vscode/
+
+# Frontend (React)
+frontSenaSoft/node_modules/
+frontSenaSoft/.env
+frontSenaSoft/dist/
+frontSenaSoft/dist-ssr/
+frontSenaSoft/*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
