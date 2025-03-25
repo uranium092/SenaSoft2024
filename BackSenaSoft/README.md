@@ -1,10 +1,4 @@
-# BackSenaSoft - API Spring Boot con MongoDB
-
-Este proyecto fue desarrollado como solución al reto propuesto y patrocinado por IBM, en SENASOFT 2024 dentro de la categoría 'Desarrollo Libre', obteniendo el tercer lugar a nivel nacional. Los detalles del reto y las especificaciones se pueden encontrar en [este link](https://drive.google.com/file/d/1f2brAkReuinyZOcCo8WXShZaNO01Ej9R/view?usp=sharing).
-
-#### Tecnologías: Java, Spring Boot, Spring Data, Maven, MongoDB
-
-## ¿Cómo ejecutarlo?
+# ¿Cómo ejecutarlo?
 
 ### Requisitos previos
 
