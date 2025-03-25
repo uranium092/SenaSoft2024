@@ -1,6 +1,6 @@
 # SenaSoft2024
 
-Este proyecto fue desarrollado en compañia de [Daniel Henao](https://github.com/VenaoX69) como solución al reto propuesto y patrocinado por IBM dentro de la categoría 'Desarrollo Libre' en el evento anual SENASOFT (Edición Cali, 2024). Nuestro equipo obtuvo el tercer lugar a nivel nacional entre 27 regionales, demostrando la calidad y eficacia de nuestra solución.
+Este proyecto fue desarrollado en compañia de [Daniel Henao](https://github.com/VenaoX69) como solución al reto propuesto y patrocinado por IBM dentro de la categoría 'Desarrollo Libre' en el evento anual SENASOFT (Edición Cali, 2024). Nuestro equipo obtuvo el tercer lugar a nivel nacional entre 27 regionales, tras 3 días de competición, demostrando la calidad y eficacia de nuestra solución.
 
 El desarrollo de esta aplicación es el resultado de un análisis detallado y la resolución de los problemas planteados en el reto, cuyos detalles pueden consultarse en [https://github.com/VenaoX69](https://github.com/VenaoX69).
 
