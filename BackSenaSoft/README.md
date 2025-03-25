@@ -32,7 +32,7 @@ Sigue estos pasos para ejecutar BackSenaSoft:
     ```
 
 3. **`application.properties`:** El archivo `application.properties` se encuentra en `src/main/resources/`. Por defecto, está configurado para conectar con MongoDB en localhost. Si estás utilizando MongoDB Atlas, debes modificar la cadena de conexión en este archivo. Reemplaza la cadena de conexión por la proporcionada por MongoDB Atlas.
-    ```bash
+    ```properties
     # src/main/resources/application.properties
     spring.application.name=BackSenaSoft
     spring.data.mongodb.uri=mongodb://localhost:27017/SenaSoft
