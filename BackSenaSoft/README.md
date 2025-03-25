@@ -74,4 +74,4 @@ Sigue estos pasos para ejecutar BackSenaSoft:
                 java -jar target/app.jar
                 ```
 ## Recomendaciones:
-* Asegurese que la ejecución ocurra en el puerto :8080, de lo contrario, tendrá que cambiar el puerto de comunicación desde el frontend.
+* Asegurese que la ejecución ocurra en el puerto :8080, de lo contrario, tendrá que cambiar el puerto de comunicación hacia este Backend en el Frontend
