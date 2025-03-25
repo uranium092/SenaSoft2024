@@ -7,6 +7,14 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
 * `BackSenaSoft/`: Contiene el código fuente del backend (Spring Boot).
 * `frontSenaSoft/`: Contiene el código fuente del frontend (React).
 
+## Primeros pasos
+
+1.  **Clonar el repositorio:**
+
+    ```bash
+    git clone https://github.com/uranium092/SenaSoft2024
+    ```
+
 ## Requisitos previos
 
 ### Backend (BackSenaSoft)
@@ -25,9 +33,15 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
 
 ### Backend (BackSenaSoft)
 
-1.  **MongoDB:** Asegúrate de que MongoDB esté en ejecución.
-2.  **Base de datos:** Crea una base de datos llamada `SenaSoft` en tu instancia de MongoDB (local o Atlas).
-3.  **`application.properties`:** El archivo `application.properties` se encuentra en `BackSenaSoft/src/main/resources/`. Por defecto, está configurado para conectar con MongoDB en localhost. Si estás utilizando MongoDB Atlas, debes modificar la cadena de conexión en este archivo.
+1.  **Navegar al directorio del backend:**
+
+    ```bash
+    cd SenaSoft2024/BackSenaSoft
+    ```
+
+2.  **MongoDB:** Asegúrate de que MongoDB esté en ejecución.
+3.  **Base de datos:** Crea una base de datos llamada `SenaSoft` en tu instancia de MongoDB (local o Atlas).
+4.  **`application.properties`:** El archivo `application.properties` se encuentra en `src/main/resources/`. Por defecto, está configurado para conectar con MongoDB en localhost. Si estás utilizando MongoDB Atlas, debes modificar la cadena de conexión en este archivo.
 
     ```properties
     spring.application.name=BackSenaSoft
@@ -42,7 +56,13 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
 
 ### Frontend (frontSenaSoft)
 
-1.  **`.env`:** Crea un archivo `.env` en el directorio `frontSenaSoft/` con la siguiente información:
+1.  **Navegar al directorio del frontend:**
+
+    ```bash
+    cd SenaSoft2024/frontSenaSoft
+    ```
+
+2.  **`.env`:** Crea un archivo `.env` en el directorio `frontSenaSoft/` con la siguiente información:
 
     ```properties
     VITE_SERVER_URL=http://localhost:8080
