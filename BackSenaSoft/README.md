@@ -73,9 +73,3 @@ Sigue estos pasos para ejecutar la aplicación BackSenaSoft:
             * ```bash
                 java -jar target/app.jar
                 ```
-
-
-## Repositorio del Frontend
-
-* [Enlace al repositorio del frontend](https://github.com/uranium092/frontSenaSoft)
-* Descripción: Frontend desarrollado con React y TS para interactuar con la API BackSenaSoft.
