@@ -2,16 +2,18 @@
 
 Este repositorio contiene el frontend (React) para el proyecto SenaSoft2024.
 
+**Tecnologías:** React, TS, MUI, Leaflet
+
 ## Estructura del repositorio
 
-* `frontSenaSoft/`: Contiene el código fuente del frontend (React).
+* `frontSenaSoft/`: Contiene el código fuente del frontend
 
 ## Primeros pasos
 
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone [https://github.com/uranium092/SenaSoft2024](https://github.com/uranium092/SenaSoft2024)
+    git clone https://github.com/uranium092/SenaSoft2024
     ```
 
 2.  **Navegar al directorio del frontend:**
