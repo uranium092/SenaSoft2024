@@ -75,7 +75,7 @@ Este repositorio contiene el backend (Spring Boot) para el proyecto SenaSoft2024
             ```bash
             java -jar target/app.jar
             ```
-            * Reemplaza app.jar por el nombre del archivo .jar generado en `/target`
+            * Reemplaza `app.jar` por el nombre del archivo .jar generado en `/target`
 
 ## Recomendaciones
 
