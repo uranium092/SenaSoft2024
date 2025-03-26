@@ -24,16 +24,12 @@ Este repositorio contiene el backend (Spring Boot) para el proyecto SenaSoft2024
 
 ## Requisitos previos
 
-### Backend (BackSenaSoft)
-
 1.  **Java:** Descarga e instala el JDK (versión >= 17) desde [Oracle](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 2.  **MongoDB:**
     * Instala MongoDB Community Edition (versión >= 5.0.26) desde [MongoDB](https://www.mongodb.com/try/download/community).
     * Opcionalmente, puedes utilizar [MongoDB Atlas](https://www.mongodb.com/atlas/database) (servicio en la nube).
 
 ## Configuración
-
-### Backend (BackSenaSoft)
 
 1.  **MongoDB:** Asegúrate de que MongoDB esté en ejecución.
 2.  **Base de datos:** Crea una base de datos llamada `SenaSoft` en tu instancia de MongoDB (local o Atlas).
@@ -51,8 +47,6 @@ Este repositorio contiene el backend (Spring Boot) para el proyecto SenaSoft2024
     ```
 
 ## Ejecución
-
-### Backend (BackSenaSoft)
 
 1.  **Ejecutar la aplicación:**
 
