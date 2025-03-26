@@ -109,6 +109,7 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
             ```bash
             java -jar target/app.jar
             ```
+            * Reemplaza app.jar por el nombre del archivo .jar generado en `/target`
 
 ### Frontend (frontSenaSoft)
 
