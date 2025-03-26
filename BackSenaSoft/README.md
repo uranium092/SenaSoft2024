@@ -2,6 +2,8 @@
 
 Este repositorio contiene el backend (Spring Boot) para el proyecto SenaSoft2024.
 
+**Tecnologías**: Java, Spring Boot, Spring Data, Maven, MongoDB
+
 ## Estructura del repositorio
 
 * `BackSenaSoft/`: Contiene el código fuente del backend (Spring Boot).
