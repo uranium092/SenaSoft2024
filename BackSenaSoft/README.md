@@ -6,7 +6,7 @@ Este repositorio contiene el backend (Spring Boot) para el proyecto SenaSoft2024
 
 ## Estructura del repositorio
 
-* `BackSenaSoft/`: Contiene el código fuente del backend (Spring Boot).
+* `BackSenaSoft/`: Contiene el código fuente del backend
 
 ## Primeros pasos
 
