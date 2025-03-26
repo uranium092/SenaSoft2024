@@ -2,6 +2,8 @@
 
 Este proyecto fue desarrollado en compañia de [Daniel Henao](https://github.com/VenaoX69) como solución al reto propuesto y patrocinado por IBM dentro de la categoría 'Desarrollo Libre' en el evento anual SENASOFT (Edición Cali, 2024). Nuestro equipo obtuvo el tercer lugar a nivel nacional entre 27 regionales, tras 3 días de competición, demostrando la calidad y eficacia de nuestra solución.
 
+**Tecnologías:** React, MUI, Java/Spring Boot/Spring Data, Maven, MongoDB, Leaflet.
+
 El desarrollo de esta aplicación es el resultado de un análisis detallado y la resolución de los problemas planteados en el reto, cuyos detalles pueden consultarse en [este link](https://drive.google.com/file/d/1f2brAkReuinyZOcCo8WXShZaNO01Ej9R/view).
 
 **Punto importante:**
