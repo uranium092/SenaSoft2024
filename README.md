@@ -27,7 +27,7 @@ Este repositorio contiene el frontend (React) y el backend (Spring Boot) para el
 
 ### Backend (BackSenaSoft)
 
-1.  **Java 21:** Descarga e instala el JDK 21 desde [Oracle](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
+1.  **Java:** Descarga e instala el JRE (versión >= 17) desde [Oracle](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 2.  **MongoDB:**
     * Instala MongoDB Community Edition (versión >= 5.0.26) desde [MongoDB](https://www.mongodb.com/try/download/community).
     * Opcionalmente, puedes utilizar [MongoDB Atlas](https://www.mongodb.com/atlas/database) (servicio en la nube).
