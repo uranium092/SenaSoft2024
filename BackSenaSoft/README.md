@@ -11,7 +11,7 @@ Este repositorio contiene el backend (Spring Boot) para el proyecto SenaSoft2024
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone [https://github.com/uranium092/SenaSoft2024](https://github.com/uranium092/SenaSoft2024)
+    git clone https://github.com/uranium092/SenaSoft2024
     ```
 
 2.  **Navegar al directorio del backend:**
